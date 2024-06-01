@@ -7,3 +7,4 @@ cout << "The value of var is 1";
 } else {
 cout << "The value of var is not 1";
 }
+}
