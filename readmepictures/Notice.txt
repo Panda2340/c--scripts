@@ -1,0 +1,1 @@
+This folder foes not contain any C++ scripts, it is just photos for the readme of this repo.
