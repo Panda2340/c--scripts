@@ -3,6 +3,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-  int items[3] = { "1", "2", "3" }; //create the array
+  int items[3] = { "1", "2", "3" }; //create an array with the name "items"
 int getArrayLength = sizeof(items) / sizeof(int)
 }
