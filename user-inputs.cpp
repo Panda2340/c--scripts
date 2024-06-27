@@ -4,4 +4,5 @@ int main() {
   int userInput; //create the variable to store the user's input
 cin >> userInput; //get the user's input
 cout << userInput; //print the user's input;
+  return 0;
 }
